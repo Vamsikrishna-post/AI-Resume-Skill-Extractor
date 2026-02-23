@@ -1,0 +1,110 @@
+{"label":"SKILL","pattern":"Python","id":"Programming Languages"}
+{"label":"SKILL","pattern":"python","id":"Programming Languages"}
+{"label":"SKILL","pattern":"JavaScript","id":"Programming Languages"}
+{"label":"SKILL","pattern":"javascript","id":"Programming Languages"}
+{"label":"SKILL","pattern":"Java","id":"Programming Languages"}
+{"label":"SKILL","pattern":"java","id":"Programming Languages"}
+{"label":"SKILL","pattern":"C++","id":"Programming Languages"}
+{"label":"SKILL","pattern":"c++","id":"Programming Languages"}
+{"label":"SKILL","pattern":"C#","id":"Programming Languages"}
+{"label":"SKILL","pattern":"c#","id":"Programming Languages"}
+{"label":"SKILL","pattern":"Ruby","id":"Programming Languages"}
+{"label":"SKILL","pattern":"ruby","id":"Programming Languages"}
+{"label":"SKILL","pattern":"Go","id":"Programming Languages"}
+{"label":"SKILL","pattern":"go","id":"Programming Languages"}
+{"label":"SKILL","pattern":"Rust","id":"Programming Languages"}
+{"label":"SKILL","pattern":"rust","id":"Programming Languages"}
+{"label":"SKILL","pattern":"TypeScript","id":"Programming Languages"}
+{"label":"SKILL","pattern":"typescript","id":"Programming Languages"}
+{"label":"SKILL","pattern":"PHP","id":"Programming Languages"}
+{"label":"SKILL","pattern":"php","id":"Programming Languages"}
+{"label":"SKILL","pattern":"Swift","id":"Programming Languages"}
+{"label":"SKILL","pattern":"swift","id":"Programming Languages"}
+{"label":"SKILL","pattern":"Kotlin","id":"Programming Languages"}
+{"label":"SKILL","pattern":"kotlin","id":"Programming Languages"}
+{"label":"SKILL","pattern":"React","id":"Web Technologies"}
+{"label":"SKILL","pattern":"react","id":"Web Technologies"}
+{"label":"SKILL","pattern":"Angular","id":"Web Technologies"}
+{"label":"SKILL","pattern":"angular","id":"Web Technologies"}
+{"label":"SKILL","pattern":"Vue","id":"Web Technologies"}
+{"label":"SKILL","pattern":"vue","id":"Web Technologies"}
+{"label":"SKILL","pattern":"Node.js","id":"Web Technologies"}
+{"label":"SKILL","pattern":"node.js","id":"Web Technologies"}
+{"label":"SKILL","pattern":"Express","id":"Web Technologies"}
+{"label":"SKILL","pattern":"express","id":"Web Technologies"}
+{"label":"SKILL","pattern":"Django","id":"Web Technologies"}
+{"label":"SKILL","pattern":"django","id":"Web Technologies"}
+{"label":"SKILL","pattern":"Flask","id":"Web Technologies"}
+{"label":"SKILL","pattern":"flask","id":"Web Technologies"}
+{"label":"SKILL","pattern":"HTML","id":"Web Technologies"}
+{"label":"SKILL","pattern":"html","id":"Web Technologies"}
+{"label":"SKILL","pattern":"CSS","id":"Web Technologies"}
+{"label":"SKILL","pattern":"css","id":"Web Technologies"}
+{"label":"SKILL","pattern":"Tailwind","id":"Web Technologies"}
+{"label":"SKILL","pattern":"tailwind","id":"Web Technologies"}
+{"label":"SKILL","pattern":"Bootstrap","id":"Web Technologies"}
+{"label":"SKILL","pattern":"bootstrap","id":"Web Technologies"}
+{"label":"SKILL","pattern":"Next.js","id":"Web Technologies"}
+{"label":"SKILL","pattern":"next.js","id":"Web Technologies"}
+{"label":"SKILL","pattern":"Machine Learning","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"machine learning","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"Deep Learning","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"deep learning","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"NLP","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"nlp","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"PyTorch","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"pytorch","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"TensorFlow","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"tensorflow","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"Scikit-Learn","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"scikit-learn","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"Pandas","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"pandas","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"Numpy","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"numpy","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"OpenCV","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"opencv","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"Data Visualization","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"data visualization","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"SQL","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"sql","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"Tableau","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"tableau","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"PowerBI","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"powerbi","id":"Data Science & AI"}
+{"label":"SKILL","pattern":"AWS","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"aws","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"Azure","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"azure","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"Google Cloud","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"google cloud","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"Docker","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"docker","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"Kubernetes","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"kubernetes","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"Jenkins","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"jenkins","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"Terraform","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"terraform","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"GitHub Actions","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"github actions","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"CI/CD","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"ci/cd","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"Linux","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"linux","id":"Cloud & DevOps"}
+{"label":"SKILL","pattern":"Leadership","id":"Soft Skills"}
+{"label":"SKILL","pattern":"leadership","id":"Soft Skills"}
+{"label":"SKILL","pattern":"Communication","id":"Soft Skills"}
+{"label":"SKILL","pattern":"communication","id":"Soft Skills"}
+{"label":"SKILL","pattern":"Teamwork","id":"Soft Skills"}
+{"label":"SKILL","pattern":"teamwork","id":"Soft Skills"}
+{"label":"SKILL","pattern":"Problem Solving","id":"Soft Skills"}
+{"label":"SKILL","pattern":"problem solving","id":"Soft Skills"}
+{"label":"SKILL","pattern":"Agile","id":"Soft Skills"}
+{"label":"SKILL","pattern":"agile","id":"Soft Skills"}
+{"label":"SKILL","pattern":"Scrum","id":"Soft Skills"}
+{"label":"SKILL","pattern":"scrum","id":"Soft Skills"}
+{"label":"SKILL","pattern":"Project Management","id":"Soft Skills"}
+{"label":"SKILL","pattern":"project management","id":"Soft Skills"}
+{"label":"SKILL","pattern":"Critical Thinking","id":"Soft Skills"}
+{"label":"SKILL","pattern":"critical thinking","id":"Soft Skills"}

@@ -1,0 +1,21 @@
+John Doe
+Full Stack Developer | AI Enthusiast
+
+EXPERIENCE
+Software Engineer at TechCorp (2020 - Present)
+- Developing web applications using React and Node.js.
+- Implementing machine learning models with Python and Scikit-Learn.
+- Managing cloud infrastructure on AWS and Docker.
+- Working in an Agile environment with Scrum methodologies.
+
+Junior Developer at WebSol (2018 - 2020)
+- Built responsive websites with HTML, CSS, and JavaScript.
+- Utilized Flask for backend API development.
+- Collaborated with teams using Git and GitHub Actions.
+
+SKILLS
+Programming: Python, JavaScript, Java, TypeScript
+Web: React, Vue, Express, Django, Tailwind CSS
+AI/Data: Machine Learning, NLP, Pandas, Numpy, SQL
+DevOps: Docker, AWS, Jenkins, CI/CD
+Soft Skills: Leadership, Communication, Problem Solving, Project Management

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Skill Extractor | HR-AI Pro</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>SkillExtractor.AI</h1>
+            <p class="subtitle">Next-gen Hybrid LLM + NLP Resume Analysis for Modern HR</p>
+        </header>
+
+        <section class="upload-card">
+            <div class="drop-zone" id="drop-zone">
+                <p>Drag & Drop Resume or Click to Upload</p>
+                <p style="font-size: 0.8rem; color: var(--text-dim); margin-top: 10px;">Supported formats: .txt (PDF/Docx support coming soon)</p>
+                <input type="file" id="resume-input" accept=".txt">
+            </div>
+            <button class="btn" id="analyze-btn">Analyze Resume</button>
+            <div class="loading-spinner" id="loader"></div>
+        </section>
+
+        <section id="results">
+            <div class="result-card full-width">
+                <h2>AI Insight Summary</h2>
+                <div class="ai-insight" id="ai-summary">
+                    Analyzing extraction data...
+                </div>
+            </div>
+
+            <div class="result-card">
+                <h2>Extracted Skills</h2>
+                <div id="skills-container">
+                    <!-- Skills will be injected here -->
+                </div>
+            </div>
+
+            <div class="result-card">
+                <h2>Skill Frequency Distribution</h2>
+                <canvas id="frequencyChart"></canvas>
+            </div>
+
+            <div class="result-card full-width">
+                <h2>Key Performance Keywords</h2>
+                <div id="keywords-container">
+                    <!-- Keywords will be injected here -->
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

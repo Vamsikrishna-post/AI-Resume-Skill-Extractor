@@ -1,0 +1,30 @@
+Profile: DATA SCIENCE MANAGER
+
+Summary
+Strategic and result-driven Data Science Manager with over 10 years of experience in leveraging data to drive business growth. Expert in building and leading cross-functional teams of data scientists and engineers. Proficient in developing advanced machine learning models, predictive analytics, and scalable data architectures.
+
+Skills
+* Programming Languages: Python (NumPy, Pandas, Scikit-learn), R, SQL, Java
+* Machine Learning: Supervised/Unsupervised Learning, Natural Language Processing (NLP), Computer Vision, Reinforcement Learning
+* Deep Learning Frameworks: TensorFlow, PyTorch, Keras
+* Big Data Technologies: Apache Spark, Hadoop, Hive, Kafka
+* Cloud Platforms: AWS (SageMaker, S3, EC2), Google Cloud Platform (GCP), Azure
+* Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
+* Tools: Git, Docker, Kubernetes, Jenkins
+
+Professional Experience
+
+Data Science Manager | Global Tech Solutions | 2018 – Present
+* Lead a team of 12 data scientists in developing AI-driven solutions for Fortune 500 clients.
+* Implemented a custom NLP pipeline for sentiment analysis, improving customer satisfaction tracking accuracy by 40%.
+* Architected a real-time recommendation engine that boosted platform revenue by 22% in the first quarter of deployment.
+* Managed the end-to-end MLOps lifecycle, reducing model deployment time from weeks to hours.
+
+Senior Data Scientist | Innovate Analytics | 2014 – 2018
+* Developed predictive models for customer churn and lifetime value (CLV) using XGBoost and LightGBM.
+* Optimized supply chain logistics using genetic algorithms, resulting in a $2M annual cost saving.
+* Created automated data cleaning scripts that reduced data preparation time by 60%.
+
+Education
+* Ph.D. in Computer Science (Artificial Intelligence specialization) | Stanford University
+* M.S. in Statistics | University of California, Berkeley
